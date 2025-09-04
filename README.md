@@ -1,2 +1,9 @@
-# pose-detection-demo
-Pose detection demo using Google Mediapipe for image, video, and real-time webcam feed.
+#Pose detection demo
+
+Demonstration of human poses using Google Mediapipe.
+Static image detection, video-based detection and real-time detection via webcam.
+
+
+## Install dependencies
+```bash
+pip install -r requirements.txt
